@@ -1,4 +1,4 @@
-document.head.insertAdjacentHTML("beforeend",'<link rel="stylesheet" href="extra.css?v=4">');
+document.head.insertAdjacentHTML("beforeend",'<link rel="stylesheet" href="extra.css?v=5">');
 const PLAN_TOPICS=[
   ["六年级入门","六年级阅读方法与单元预习","分数乘法：意义、计算、应用","Unit 1 问路与地点表达"],
   ["方法建立","环境描写与人物心情","位置与方向：方向角、路线图","Unit 2 交通方式与规则"],
